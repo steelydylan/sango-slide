@@ -205,17 +205,19 @@ import { Sanko } from '../src/sanko'
 
 CSSの知識がなくカスタマイズが難しい場合はSANGO Land で近しいデザインを選ぼう
 
-
-<!-- block-end -->
-
-<!-- block-start: column -->
-
-
 <Sanko 
   url="https://sango-land.vercel.app/" 
   title="SANGO Land - SANGOカスタムブロックのギャラリーサイト"
   subtitle="SANGO Land"
 />
+
+
+<!-- block-end -->
+
+<!-- block-start: column -->
+
+<YouTube id="mxpvxRwslYI" />
+
 
 <!-- block-end -->
 
@@ -223,3 +225,23 @@ CSSの知識がなくカスタマイズが難しい場合はSANGO Land で近し
 
 
 ---
+
+import { YouTube } from '../src/youtube'
+
+## 一度設定した内容の保存
+
+<!-- block-start: grid -->
+
+<!-- block-start: column -->
+
+プリセット機能を使うと一度設定したブロックの内容を保存することができます
+
+<!-- block-end -->
+
+<!-- block-start: column -->
+
+<YouTube id="xD1Z6e1QSTw" />
+
+<!-- block-end -->
+
+<!-- block-end -->
