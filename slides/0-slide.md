@@ -87,6 +87,7 @@ SANGO Gutenbergでトップページなどをカスタマイズできるよう�
 ## 1. 記事を楽に執筆することができる
 
 - 豊富なブロック
+- カスタマイズできるカラーパレット
 - カスタマイズできる装飾、書式
 - カスタマイズできるブロック
 - 一度設定した内容の保存
@@ -133,19 +134,43 @@ SANGO Gutenbergでトップページなどをカスタマイズできるよう�
 
 ---
 
-## 使い方
+## ヒーローブロック
 
-<p className="p">まずはWordPressのGutenbergの基本的な操作に慣れる必要あり！</p>
+<!-- block-start: grid -->
 
-### 参考リンク
+<!-- block-start: column -->
 
+トップページのヘッダーやCTAなどに向いているブロック
 
-<Sanko 
-  url="https://saruwakakun.com/sango/sango-gutenberg-custom-css" 
-  title="抜群の使い心地！SANGO Gutenbergを使おう！"
-  subtitle="SANGOカスタマイズガイド"
-/>
+<!-- block-end -->
 
+<!-- block-start: column -->
+
+<YouTube id="6K7dSXDTJB8" />
+
+<!-- block-end -->
+
+<!-- block-end -->
+
+---
+
+## カスタマイズできるカラーパレット
+
+<!-- block-start: grid -->
+
+<!-- block-start: column -->
+
+SANGOのオリジナルブロックに対する色はカラーパレットで定義しておくことができます。
+
+<!-- block-end -->
+
+<!-- block-start: column -->
+
+<YouTube id="i_zzeyOzW6I" />
+
+<!-- block-end -->
+
+<!-- block-end -->
 
 ---
 
@@ -184,11 +209,12 @@ import { Sanko } from '../src/sanko'
 
 カスタムCSS機能を使って既存のブロックの見た目を調整することができます。
 
+
 <!-- block-end -->
 
 <!-- block-start: column -->
 
-![](/assets/custom-css.png)
+<YouTube id="xD1Z6e1QSTw" />
 
 <!-- block-end -->
 
@@ -240,7 +266,7 @@ import { YouTube } from '../src/youtube'
 
 <!-- block-start: column -->
 
-<YouTube id="xD1Z6e1QSTw" />
+<YouTube id="XxMR-81X0-c" />
 
 <!-- block-end -->
 
