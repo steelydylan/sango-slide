@@ -89,6 +89,32 @@
   margin-top: 50px;
 }
 
+.swiper-slide:nth-child(n + 3) h2 {
+  position: relative;
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+  margin-bottom: 1.5em;
+  color: #fff;
+  background-color: #5ba9f7;
+  border-color: #5ba9f7;
+  width: 100%;
+  text-align: left;
+  font-size: 1em;
+}
+
+.swiper-slide:nth-child(n + 3) h2:after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  top: calc(100% - 1px);
+  left: 25px;
+  width: 0;
+  height: 0;
+  border: 12px solid transparent;
+  border-top: 12px solid;
+  border-top-color: inherit;
+}
+
 .swiper-slide:nth-child(n + 3) .slide-internal-box {
   padding-top: 50px;
   height: calc(100vh - 100px);
@@ -110,14 +136,14 @@
 }
 
 .swiper-slide:nth-child(n + 3) p {
-  font-size: 35px;
+  font-size: 24px;
   line-height: 1.7;
   margin-bottom: 20px;
 }
 
 .swiper-slide:nth-child(n + 3) li {
   margin-left: 0;
-  font-size: 35px;
+  font-size: 24px;
 }
 
 .swiper-slide:nth-child(n + 3) img {
@@ -159,4 +185,61 @@
   width: 100%;
   height: 80px;
   box-shadow: 0 3px 6px rgb(0 0 0 / 18%);
+}
+
+.swiper-slide.blocks .grid {
+  width: 100%;
+}
+
+.swiper-slide.blocks ul li {
+  font-size: 20px;
+}
+
+.swiper-slide.blocks .column {
+  padding-top: 0;
+}
+
+/* 参考 * /
+/*他サイトへのリンクカード[sanko]*/
+.reference {
+  display: table;
+  max-width: 450px;
+  width: 100%;
+  margin: 1em 0 1.5em;
+  padding: 13px 10px 13px 0;
+  border-radius: 2px;
+  background: #f5f5f5;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.25);
+  color: #555;
+  font-weight: bold;
+  text-decoration: none !important;
+}
+.reference:hover {
+  box-shadow: 0 10px 20px -4px rgba(0, 0, 0, 0.22);
+  color: #888;
+  text-decoration: none;
+}
+.reference .refttl {
+  width: 70px;
+  margin: 10px;
+  border-right: solid 2px #dadada;
+  text-align: center;
+  line-height: 1.5;
+  display: table-cell;
+  font-size: 0.8em;
+}
+
+.reference .refcite {
+  width: 200px;
+  width: calc(100% - 70px);
+  padding-left: 10px;
+  font-size: 0.68em;
+  line-height: 1.5;
+  display: table-cell;
+  text-align: left;
+}
+.reference .refcite span {
+  display: block;
+  color: #ababab;
+  font-size: 0.9em;
 }

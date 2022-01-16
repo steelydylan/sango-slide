@@ -81,7 +81,6 @@ SANGO Gutenbergでトップページなどをカスタマイズできるよう�
 1. 記事を楽に執筆することができる
 2. サイトのパーツごとにブロックエディターで作ることができる
 3. トップページやカテゴリーページを作りやすい
-4. SANGO Landより好きなパーツをコピペできる
 
 --- 
 
@@ -93,8 +92,134 @@ SANGO Gutenbergでトップページなどをカスタマイズできるよう�
 - 一度設定した内容の保存
 
 ---
+<!-- classes: blocks -->
 
-## 豊富なブロック
+## 全22種類の豊富なブロック
+
+<!-- block-start: grid -->
+
+<!-- block-start: column -->
+- ヒーローブロック
+- フル背景ブロック
+- 記事一覧ブロック
+- FAQブロック
+- ボタンブロック
+- ボックスブロック
+- タイトル付きボックスブロック
+- 見出しブロック
+- アコーディオンブロック
+- タブブロック
+- メッセージブロック
+
+<!-- block-end -->
+
+
+<!-- block-start: column -->
+- 条件ブロック
+- スライダーブロック
+- タブブロック
+- リストブロック
+- 線ブロック
+- コードボックスブロック
+- 吹き出しブロック
+- 参考ブロック
+- 関連ブロック
+- タイムラインブロック
+- ボックスメニューブロック
+
+<!-- block-end -->
+
+<!-- block-end -->
 
 ---
 
+## 使い方
+
+<p className="p">まずはWordPressのGutenbergの基本的な操作に慣れる必要あり！</p>
+
+### 参考リンク
+
+
+<Sanko 
+  url="https://saruwakakun.com/sango/sango-gutenberg-custom-css" 
+  title="抜群の使い心地！SANGO Gutenbergを使おう！"
+  subtitle="SANGOカスタマイズガイド"
+/>
+
+
+---
+
+## カスタマイズできる装飾、書式
+
+import { Sanko } from '../src/sanko'
+
+<!-- block-start: grid -->
+
+<!-- block-start: column -->
+
+<Sanko 
+  url="https://saruwakakun.com/sango/sango-gutenberg-custom-css" 
+  title="抜群の使い心地！SANGO Gutenbergを使おう！"
+  subtitle="SANGOカスタマイズガイド"
+/>
+
+
+<!-- block-end -->
+
+
+<!-- block-start: column -->
+![](https://saruwakakun.com/sango/wp-content/uploads/2021/07/dffff00159b373463a9adbbaac694404.png)
+<!-- block-end -->
+
+<!-- block-end -->
+
+
+---
+
+## カスタマイズできるブロック
+
+<!-- block-start: grid -->
+
+<!-- block-start: column -->
+
+カスタムCSS機能を使って既存のブロックの見た目を調整することができます。
+
+<!-- block-end -->
+
+<!-- block-start: column -->
+
+![](/assets/custom-css.png)
+
+<!-- block-end -->
+
+<!-- block-end -->
+
+---
+
+## カスタマイズできるブロック
+
+<!-- block-start: grid -->
+
+<!-- block-start: column -->
+
+
+CSSの知識がなくカスタマイズが難しい場合はSANGO Land で近しいデザインを選ぼう
+
+
+<!-- block-end -->
+
+<!-- block-start: column -->
+
+
+<Sanko 
+  url="https://sango-land.vercel.app/" 
+  title="SANGO Land - SANGOカスタムブロックのギャラリーサイト"
+  subtitle="SANGO Land"
+/>
+
+<!-- block-end -->
+
+<!-- block-end -->
+
+
+---
