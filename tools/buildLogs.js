@@ -59,7 +59,7 @@ function buildLogs(logs, publicPath) {
       runtimeFileNum++;
 
       // assets
-      if (!asset.includes('.js') && !asset.includes('.css') && !assets.startsWith('data:image/')) {
+      if (!asset.includes('.js') && !asset.includes('.css') && !asset.startsWith('data:image/')) {
         if (!assetsTree['assets']) {
           assetsTree['assets'] = {
             size: 0,
