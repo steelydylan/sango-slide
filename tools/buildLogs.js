@@ -84,7 +84,7 @@ function buildLogs(logs, publicPath) {
           runtimeGzipFileNum++;
         }
       } else {
-        if (!Number(name)) {
+        if (!Number(name) && logs.chunks[name]) {
           // initial
           if (!assetsTree[name]) {
             assetsTree[name] = {
@@ -113,7 +113,7 @@ function buildLogs(logs, publicPath) {
               }
             }
           }
-        } else {
+        } else if (logs.chunks[name]) {
           // async
           for (const file of logs.chunks[name].files) {
             const info = logs.assets[file];
