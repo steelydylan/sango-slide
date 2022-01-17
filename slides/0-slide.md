@@ -502,3 +502,24 @@ SANGOコンテンツブロック機能を使えばウィジェットで挿入で
 <!-- block-end -->
 
 <!-- block-end -->
+
+---
+
+<!-- classes: title -->
+<!-- background: '/assets/section.jpeg' -->
+
+
+# SANGO WEBINAR
+
+質問コーナー
+
+---
+
+<!-- classes: title -->
+<!-- background: '/assets/section.jpeg' -->
+
+
+
+# SANGO WEBINAR
+
+ご静聴ありがとうございました！
