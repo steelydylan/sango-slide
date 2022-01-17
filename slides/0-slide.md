@@ -52,6 +52,14 @@ SANGO Gutenbergでトップページなどをカスタマイズできるよう�
 
 ---
 
+<!-- background: '/assets/section.jpeg' -->
+
+<!-- classes: section -->
+
+# 1. SANGO Gutenbergの機能紹介
+
+---
+
 ## SANGO Gutenbergとは
 
 
@@ -79,15 +87,7 @@ SANGO Gutenbergでトップページなどをカスタマイズできるよう�
 
 ---
 
-## SANGO Gutenberg 導入のメリット
-
-1. 記事を楽に執筆することができる
-2. サイトのパーツごとにブロックエディターで作ることができる
-3. トップページやカテゴリーページを作りやすい
-
---- 
-
-## 1. 記事を楽に執筆することができる
+## 記事を楽に執筆することができる
 
 - 豊富なブロック
 - カスタマイズできるカラーパレット
@@ -362,6 +362,14 @@ CSSの知識がなくカスタマイズが難しい場合はSANGO Land で近し
 
 ---
 
+
+<!-- background: '/assets/section.jpeg' -->
+<!-- classes: section -->
+
+# 2. コンテンツブロックを使った部分的カスタマイズ
+
+---
+
 ## サイトのパーツごとにブロックエディターで作ることができる
 
 <!-- block-start: grid -->
@@ -381,7 +389,7 @@ SANGOコンテンツブロック機能を使えばウィジェットで挿入で
 
 <!-- block-start: column -->
 
-<YouTube id="XxMR-81X0-c" />
+<!-- <YouTube id="XxMR-81X0-c" /> -->
 
 <!-- block-end -->
 
@@ -442,7 +450,10 @@ SANGOコンテンツブロック機能を使えばウィジェットで挿入で
 
 ---
 
-## 固定ページを使ったトップページやカテゴリートップページのカスタマイズ方法
+<!-- background: '/assets/section.jpeg' -->
+<!-- classes: section -->
+
+# 3. 固定ページを使ったトップページやカテゴリートップページのカスタマイズ方法
 
 
 ---
