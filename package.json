@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "fix:fusuma": "cp ./tools/buildLogs.js ./node_modules/fusuma/src/utils/buildLogs.js",
     "start": "fusuma start"
   },
   "author": "",
