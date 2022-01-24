@@ -7,7 +7,7 @@ import { Sanko } from '../src/sanko'
 
 # SANGO WEBINAR
 
-2022.2.3
+2022.2.16
 
 
 ---
