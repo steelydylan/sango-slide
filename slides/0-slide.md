@@ -103,6 +103,15 @@ SANGO Gutenbergでトップページなどをカスタマイズできるよう�
 
 ## SANGO Gutenbergとは
 
+WordPress 5.0から導入された新エディターGutenbergに対応したブロックプラグイン。<br/>
+ショートコードを使わずに実際の画面に近い形で編集を行えるのが特徴
+
+![](/assets/gutenberg.png)
+
+---
+
+## SANGO Gutenbergとは
+
 
 20種類以上のカスタムブロックが利用可能なSANGO専用エディタープラグイン
 
