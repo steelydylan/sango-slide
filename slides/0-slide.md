@@ -222,7 +222,8 @@ WordPress 5.0から導入された新エディターGutenbergに対応したブ�
 
 - 条件指定可能
 - 記事スライダー設定可能
-- 記事ピックアップ可能
+- おすすめ記事ピックアップ可能
+- サイドメニューに人気記事一覧設置など
 
 <!-- block-end -->
 
@@ -264,8 +265,8 @@ WordPress 5.0から導入された新エディターGutenbergに対応したブ�
 
 <!-- block-start: column -->
 
-フル背景ブロックを使えばセクションの区切り目をわかりやすくすることができます。
-このブロックは「トップページ用1カラム」のテンプレートで利用されるのがお勧めです。
+- セクションの区切り目をわかりやすくすることができる
+- 「トップページ用1カラム」のテンプレートで利用されるのがお勧め
 
 <!-- block-end -->
 
@@ -552,6 +553,61 @@ SANGOコンテンツブロック機能を使えばウィジェットで挿入で
 
 ---
 
+## サイト型トップページを固定ページで作る
+
+
+<!-- block-start: grid -->
+
+<!-- block-start: column -->
+
+SANGO Landを使うと簡単にデザインできます 
+
+<Sanko 
+  url="https://sango-land.vercel.app/" 
+  title="SANGO Land - SANGOカスタムブロックのギャラリーサイト"
+  subtitle="SANGO Land"
+/>
+
+
+
+<!-- block-end -->
+
+<!-- block-start: column -->
+
+![](https://saruwakakun.design/wp-content/uploads/2022/02/e550ffbb68bb96e4752d66956d8f5187-1.png)
+
+<!-- block-end -->
+
+<!-- block-end -->
+
+---
+
+## サイト型トップページを固定ページで作る
+
+<!-- block-start: grid -->
+
+<!-- block-start: column -->
+
+SANGO Landで欲しいパーツがあればこちらでリクエスト受け付けてます！
+
+<Sanko 
+  url="https://forms.gle/AZfQzQvLAbkzTtpH9" 
+  title="SANGO Land - お問い合わせ"
+  subtitle="SANGO Land"
+/>
+
+<!-- block-end -->
+
+<!-- block-start: column -->
+
+![](/assets/sango-land-inquiry.png)
+
+<!-- block-end -->
+
+<!-- block-end -->
+
+---
+
 ## よく忘れがちな設定👇
 
 - 外観→カスタマイズ→ヘッダーアイキャッチを非表示にする
@@ -560,6 +616,7 @@ SANGOコンテンツブロック機能を使えばウィジェットで挿入で
 - コンテンツ上下の余白をなくす設定
 
 ---
+
 
 ## カテゴリートップページのカスタマイズ方法
 
@@ -583,6 +640,18 @@ SANGOコンテンツブロック機能を使えばウィジェットで挿入で
 <!-- block-end -->
 
 <!-- block-end -->
+
+---
+
+## 今後の大きめなロードマップ
+
+ブロックとSANGO Landを中心とした機能開発
+
+<div style={{ marginBottom: '50px' }} />
+
+- プリセットの標準適用
+- 全てのページをブロックエディターだけで編集
+- SANGO Landのパーツを組み合わせた子テーマ数種類提供
 
 ---
 
