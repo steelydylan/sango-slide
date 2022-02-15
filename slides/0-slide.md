@@ -15,15 +15,41 @@ import { Sanko } from '../src/sanko'
 
 ## steelydylan
 
-![](https://avatars.githubusercontent.com/u/2508691?v=4)
 
+
+<!-- block-start: grid -->
+
+<!-- block-start: column -->
+
+![](https://avatars.githubusercontent.com/u/2508691?v=4)
 
 - SANGO 現開発者
 - Blog Friends https://blog-friends.com/
 - Scroll Hint https://appleple.github.io/scroll-hint/
 - SmartPhoto https://appleple.github.io/SmartPhoto/
 
-<a href="https://twitter.com/steelydylan" className="twitter-btn">@steelydylan</a>
+
+<div style={{ display: 'flex' }}>
+<a href="https://twitter.com/steelydylan" className="twitter-btn" style={{ marginRight: '20px' }}>@steelydylan</a>
+
+<a href="https://twitter.com/sangowp" className="twitter-btn">@sangowp</a>
+</div>
+
+<!-- block-end: column -->
+
+<!-- block-start: column -->
+
+去年2021年の1月よりSANGOの開発を引き継いで行っています。
+
+<Sanko 
+  url="https://saruwakakun.com/sango/sango-team"
+  title="SANGOの運営チームについて"
+  subtitle="SANGOカスタマイズガイド"
+/>
+
+<!-- block-end: column -->
+
+<!-- block-end: grid -->
 
 ---
 
