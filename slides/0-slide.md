@@ -12,6 +12,21 @@ import { Sanko } from '../src/sanko'
 
 ---
 
+
+## steelydylan
+
+![](https://avatars.githubusercontent.com/u/2508691?v=4)
+
+
+- SANGO 現開発者
+- Blog Friends https://blog-friends.com/
+- Scroll Hint https://appleple.github.io/scroll-hint/
+- SmartPhoto https://appleple.github.io/SmartPhoto/
+
+<a href="https://twitter.com/steelydylan" className="twitter-btn">@steelydylan</a>
+
+---
+
 ## ご案内
 
 - チャット欄は参加者と発表者がコミュニケーションをするためにご活用ください
@@ -20,15 +35,6 @@ import { Sanko } from '../src/sanko'
 
 ---
 
-
-## steelydylan
-
-- SANGO 現開発者
-- Blog Friends 開発者
-
-<a href="https://twitter.com/steelydylan" className="twitter-btn">@steelydylan</a>
-
----
 
 ## この勉強会の目的
 
