@@ -12,9 +12,16 @@ import { Sanko } from '../src/sanko'
 
 ---
 
-![](https://avatars.githubusercontent.com/u/2508691?v=4)
+## ご案内
 
-## GODAI
+- チャット欄は参加者と発表者がコミュニケーションをするためにご活用ください
+- セッションに関する質問はチャット欄にご記入ください
+- ハッシュタグは#sangowpです
+
+---
+
+
+## steelydylan
 
 - SANGO 現開発者
 - Blog Friends 開発者
