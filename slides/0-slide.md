@@ -673,3 +673,14 @@ SANGO Landで欲しいパーツがあればこちらでリクエスト受け付�
 # SANGO WEBINAR
 
 ご静聴ありがとうございました！
+
+---
+
+## SANGO WEBINAR
+
+ぜひアンケートにお答えください
+
+<Sanko
+  url="https://forms.gle/GAoYAk6QfpQVWwnn6"
+  title="SANGOオンライン勉強会アンケート"
+/>
