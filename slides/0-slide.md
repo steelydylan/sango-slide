@@ -588,7 +588,8 @@ SANGO Landを使うと簡単にデザインできます
 
 <!-- block-start: column -->
 
-SANGO Landで欲しいパーツがあればこちらでリクエスト受け付けてます！
+- 欲しいパーツがあればこちらでリクエスト受け付けてます！
+- またSANGO Landにパーツを寄稿したい方は教えてください！
 
 <Sanko 
   url="https://forms.gle/AZfQzQvLAbkzTtpH9" 
